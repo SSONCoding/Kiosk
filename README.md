@@ -12,3 +12,5 @@ SW : 이클립스툴 + JavaFX + SceneBuilder
 3. fxml 파일내 버튼과 같은 Component 옵션에 On Action값을 설정합니다. (SceneBuilder 종료 후 재실행)
 4. fxml 파일내 우측하단 Controller 클릭 후 Controller 파일 설정 후 저장합니다.
 
+# 실행결과
+![kiosk](https://user-images.githubusercontent.com/93318468/139366214-0c12ea35-fcbf-4c75-9522-012f64ed1507.jpg)
